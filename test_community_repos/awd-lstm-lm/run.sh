@@ -6,7 +6,7 @@ git clone https://github.com/salesforce/awd-lstm-lm.git
 ./install-deps.sh
 ./run-script.sh
 RETURN=$?
-rm -rf awd-lstm-lm
+#rm -rf awd-lstm-lm
 popd
 exit $RETURN
 
